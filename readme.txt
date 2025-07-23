@@ -1,9 +1,9 @@
-এই টুলগুলো কিভাবে ব্যবহার করবেন তা নিচে দেয়া হলো:
+How to use each tool:
 
-1. port-scanner.py => ওপেন পোর্ট স্ক্যানের জন্য
-2. facebook-brute.py => ব্রুটফোর্স (ডেমো)
-3. wifi-cracker.sh => Wifi password guess (ডেমো)
-4. termux-banner.sh => Termux কাস্টম স্টাইল
-5. ip-tracker.py => IP লোকেশন চেক
+1. port-scanner.py => Scans open ports of a target IP
+2. facebook-brute.py => Simulated brute-force demo
+3. wifi-cracker.sh => Tries wifi passwords from dictionary file (Demo only)
+4. termux-banner.sh => Custom welcome banner for Termux
+5. ip-tracker.py => Tracks IP geolocation using free API
 
-শুধু শেখার জন্য, অপব্যবহার করবেন না।
+⚠️ Use for educational purposes only. Do not misuse!
