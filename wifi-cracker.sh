@@ -1,7 +1,7 @@
 #!/bin/bash
-echo "⚠️ এই স্ক্রিপ্টটি শুধু ডেমো। বাস্তব WiFi হ্যাকিং অপরাধ।"
-echo "Wifi SSID: "
+echo "⚠️ This script is for demo only. Real wifi cracking is illegal."
+echo "Enter Wifi SSID: "
 read ssid
-echo "Password dictionary ফাইলের নাম: "
+echo "Enter password dictionary file name: "
 read dict
 echo "Trying passwords from $dict on $ssid..."
